@@ -1,2 +1,2 @@
 # BuymeTicket
-a demo fot buy ticket website
+a demo for buy ticket website
